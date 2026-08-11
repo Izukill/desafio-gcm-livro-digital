@@ -4,4 +4,4 @@ Um grande projeto de software começa com um primeiro passo e uma tela em branco
 Dominar a arte de criar sistemas robustos exige prática, paciência e o domínio das ferramentas certas.
 É no backend, orquestrando regras de negócio, e no frontend, desenhando a experiência, que a mágica acontece.
 A consistência no controle de versão é o que separa o caos absoluto de uma arquitetura escalável e bem-sucedida.
-e bla bla bla bla bla bla bla sla.
+Este é apenas o rascunho de uma ideia que ainda vai longe.
