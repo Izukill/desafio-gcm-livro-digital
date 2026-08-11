@@ -2,6 +2,6 @@ Capítulo 1: O Início da Jornada
 
 Um grande projeto de software começa com um primeiro passo e uma tela em branco no editor de código.
 Dominar a arte de criar sistemas robustos exige prática, paciência e o domínio das ferramentas certas.
-É no backend, orquestrando regras de negócio, e no frontend, desenhando a experiência, que a mágica acontece.
+(essa é outra linha modificada em outra branch para dar conflito)É no backend, orquestrando regras de negócio, e no frontend, desenhando a experiência, que a mágica acontece.
 A consistência no controle de versão é o que separa o caos absoluto de uma arquitetura escalável e bem-sucedida.
 Este é apenas o rascunho de uma ideia que ainda vai longe.
